@@ -1,0 +1,200 @@
+pii_riva,pii_deepspeech,pii_aws,pii_human1,pii_human2,pii_types_riva,pii_types_deepspeech,pii_types_aws,pii_types_human1,pii_types_human2,pii_riva_len,pii_deepspeech_len,pii_aws_len,pii_human1_len,pii_human2_len,pii_types_riva_len,pii_types_deepspeech_len,pii_types_aws_len,pii_types_human1_len,pii_types_human2_len
+['abuja'],[],[],[],[],['LOCATION'],[],[],[],[],1,0,0,0,0,1,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+['newman lo'],[],[],[],[],['PERSON'],[],[],[],[],1,0,0,0,0,1,0,0,0,0
+"['chad', 'african']",['africans'],"['chad', 'african']","['chad', 'chad', 'africa']","['chad', 'chad', 'africa']","['LOCATION', 'NRP']",['NRP'],"['LOCATION', 'NRP']","['LOCATION', 'LOCATION', 'LOCATION']","['LOCATION', 'LOCATION']",2,1,2,3,3,2,1,2,3,2
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['wesley peterson', ""nelson mandela's""]",['wesley peterson'],"['wesley peterson', ""nelson mandela's""]","['wesley peterson', ""nelson mandela's""]","['wesley peterson', ""nelson mandela's""]","['PERSON', 'PERSON']",['PERSON'],"['PERSON', 'PERSON']","['PERSON', 'PERSON']","['PERSON', 'PERSON']",2,1,2,2,2,2,1,2,2,2
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],['terence'],[],[],[],[],['PERSON'],[],[],[],0,1,0,0,0,0,1,0,0,0
+"[""south africa's"", 'charlotte mcleay']",['africa'],"[""south africa's"", 'charlotte michalek']","[""south africa's"", 'charlotte maxeke']","[""south africa's"", 'charlotte maxeke']","['LOCATION', 'PERSON']",['LOCATION'],"['LOCATION', 'PERSON']","['LOCATION', 'PERSON']","['LOCATION', 'PERSON']",2,1,2,2,2,2,1,2,2,2
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['russell', 'south africa']",[],"['russell', 'south africa']",['south africans'],['south africans'],"['PERSON', 'LOCATION']",[],"['PERSON', 'LOCATION']",['NRP'],['NRP'],2,0,2,1,1,2,0,2,1,1
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['ethiopian', 'foy', 'ethiopian', 'sally']",['ethiopian'],"['ethiopian', 'margo', 'ethiopian', 'sally']","['ethiopian', 'ethiopian', 'sahlework zewde']","['ethiopian', 'ethiopian', 'sahlework zewde']","['NRP', 'PERSON', 'NRP', 'PERSON']",['NRP'],"['NRP', 'PERSON', 'NRP', 'PERSON']","['NRP', 'NRP', 'PERSON']","['NRP', 'NRP', 'PERSON']",4,1,4,3,3,4,1,4,3,3
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],['london'],[],[],[],[],['LOCATION'],[],[],[],0,1,0,0,0,0,1,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+['utah'],[],['utah'],[],[],['LOCATION'],[],['LOCATION'],[],[],1,0,1,0,0,1,0,1,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+['sza'],[],[],[],[],['PERSON'],[],[],[],['PERSON'],1,0,0,0,0,1,0,0,0,1
+"['hungary', 'budapest']","['hungary', 'budapest']","['hungary', 'budapest']","['hungary', 'budapest']","['hungary', 'budapest']","['LOCATION', 'LOCATION']","['LOCATION', 'LOCATION']","['LOCATION', 'LOCATION']","['LOCATION', 'LOCATION']","['LOCATION', 'LOCATION']",2,2,2,2,2,2,2,2,2,2
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],"['nigeria', 'abuja']","['nigeria', 'abuja']","['nigeria', 'abuja']",[],[],"['LOCATION', 'LOCATION']","['LOCATION', 'LOCATION']","['LOCATION', 'LOCATION']",0,0,2,2,2,0,0,2,2,2
+"['kak ki village', 'malindi', 'kili county', 'edson kavan']",[],"['kenyatta', 'kenyans', 'kako kenny village', 'malindi', 'khalifa county', 'edinson cavani']","['kenyans', 'kilify']","['kenyans', 'kilify']","['PERSON', 'LOCATION', 'LOCATION', 'PERSON']",[],"['PERSON', 'NRP', 'LOCATION', 'LOCATION', 'LOCATION', 'PERSON']","['NRP', 'LOCATION']","['NRP', 'LOCATION', 'PERSON']",4,0,6,2,2,4,0,6,2,3
+['kevin bron'],[],"['oscar', 'kevin']",['kevin'],['kevin'],['PERSON'],[],"['PERSON', 'PERSON']",['PERSON'],['PERSON'],1,0,2,1,1,1,0,2,1,1
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],['LOCATION'],0,0,0,0,0,0,0,0,0,1
+[],['gaetano'],[],[],[],[],['PERSON'],[],[],[],0,1,0,0,0,0,1,0,0,0
+['isaac cog'],[],['isaac kosgei'],[],[],['PERSON'],[],['PERSON'],[],[],1,0,1,0,0,1,0,1,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+['africa'],['africa'],['africa'],['africa'],['africa'],['LOCATION'],['LOCATION'],['LOCATION'],['LOCATION'],['LOCATION'],1,1,1,1,1,1,1,1,1,1
+[],['gaetano'],[],[],[],[],['PERSON'],[],[],[],0,1,0,0,0,0,1,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+['bloom fontaine'],['bloemfontein'],['bloemfontein'],['bloemfontein'],['bloemfontein'],['LOCATION'],['LOCATION'],['LOCATION'],['LOCATION'],[],1,1,1,1,1,1,1,1,1,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['south african', 'paul meritz']","['south african', 'palmer']","['south african', 'paul maritz']","['south african', 'palmer']","['south african', 'palmer']","['NRP', 'PERSON']","['NRP', 'PERSON']","['NRP', 'PERSON']","['NRP', 'PERSON']",['NRP'],2,2,2,2,2,2,2,2,2,1
+['south africa'],['africa'],['south africa'],['south africa'],['south africa'],['LOCATION'],['LOCATION'],['LOCATION'],['LOCATION'],['LOCATION'],1,1,1,1,1,1,1,1,1,1
+['nigeria'],['nigeria'],"['nigeria', 'nigerian', 'yemi']",['nigeria'],['nigeria'],['LOCATION'],['LOCATION'],"['LOCATION', 'NRP', 'PERSON']",['LOCATION'],"['LOCATION', 'PERSON']",1,1,3,1,1,1,1,3,1,2
+['sultan village'],[],['silicon village'],[],[],['LOCATION'],[],['LOCATION'],[],[],1,0,1,0,0,1,0,1,0,0
+"['china', 'china']","['china', 'us']","['china', 'china']","['china', 'china', 'us']","['china', 'china', 'us']","['LOCATION', 'LOCATION']","['LOCATION', 'LOCATION']","['LOCATION', 'LOCATION']","['LOCATION', 'LOCATION', 'LOCATION']","['LOCATION', 'LOCATION', 'LOCATION']",2,2,2,3,3,2,2,2,3,3
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['kenya', 'somalia']",[],"['kenya', 'somalia']","['kenya', 'somalia']","['kenya', 'somalia']","['LOCATION', 'LOCATION']",[],"['LOCATION', 'LOCATION']","['LOCATION', 'LOCATION']","['LOCATION', 'LOCATION']",2,0,2,2,2,2,0,2,2,2
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['mosa paed', 'africa', 'africa', 'africa']","['african', 'africa', 'africa']","['africa', 'africa', 'africa']","['africa', 'africa', 'africa']","['africa', 'africa', 'africa']","['PERSON', 'LOCATION', 'LOCATION', 'LOCATION']","['NRP', 'LOCATION', 'LOCATION']","['LOCATION', 'LOCATION', 'LOCATION']","['LOCATION', 'LOCATION', 'LOCATION']","['LOCATION', 'LOCATION', 'LOCATION']",4,3,3,3,3,4,3,3,3,3
+"['ethiopians', 'kenny', 'ethiopian', 'kenya']",[],"['ethiopian', 'kenya']","['ethiopians', 'kenya', 'ethiopian', 'kenya']","['ethiopians', 'kenya', 'ethiopian', 'kenya']","['NRP', 'PERSON', 'NRP', 'LOCATION']",[],"['NRP', 'LOCATION']","['NRP', 'LOCATION', 'NRP', 'LOCATION']","['NRP', 'NRP', 'LOCATION']",4,0,2,4,4,4,0,2,4,3
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+['brian dabber'],[],['brian daba'],[],[],['PERSON'],[],['PERSON'],[],['PERSON'],1,0,1,0,0,1,0,1,0,1
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],['PERSON'],0,0,0,0,0,0,0,0,0,1
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['africa', 'ethiopian']","['cranford', 'africa', 'ethiopian']","['africa', 'ethiopian']","['africa', 'ethiopian']","['africa', 'ethiopian']","['LOCATION', 'NRP']","['LOCATION', 'LOCATION', 'NRP']","['LOCATION', 'NRP']","['LOCATION', 'NRP']","['LOCATION', 'NRP']",2,3,2,2,2,2,3,2,2,2
+[],[],['pete'],[],[],[],[],['PERSON'],[],[],0,0,1,0,0,0,0,1,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+['sadik'],[],['sidi karim'],['sadiq kareem'],['sadiq kareem'],['PERSON'],[],['PERSON'],['PERSON'],['PERSON'],1,0,1,1,1,1,0,1,1,1
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['african', 'france', 'mano macron']","['african', 'france']","['african', 'france', 'emmanuel macron']","['african', 'france', 'emmanuel macron']","['african', 'france', 'emmanuel macron']","['NRP', 'LOCATION', 'PERSON']","['NRP', 'LOCATION']","['NRP', 'LOCATION', 'PERSON']","['NRP', 'LOCATION', 'PERSON']","['NRP', 'LOCATION', 'PERSON']",3,2,3,3,3,3,2,3,3,3
+[],['sonoma'],[],[],[],[],['LOCATION'],[],[],[],0,1,0,0,0,0,1,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['somalia', 'somali', 'somalia', 'kenya', 'somalia', 'kenya', 'tanzania', 'ethiopian']","['ali', 'somali']","['somalia', 'kenya', 'somali', 'somalia', 'kenya', 'somalia', 'kenya', 'tanzania', 'ethiopian']","['somalia', 'kenya', 'somalian', 'somalia', 'kenya', 'somalia', 'kenya', 'tanzania', 'european']","['somalia', 'kenya', 'somalian', 'somalia', 'kenya', 'somalia', 'kenya', 'tanzania', 'european']","['LOCATION', 'NRP', 'LOCATION', 'LOCATION', 'LOCATION', 'LOCATION', 'LOCATION', 'NRP']","['PERSON', 'NRP']","['LOCATION', 'LOCATION', 'NRP', 'LOCATION', 'LOCATION', 'LOCATION', 'LOCATION', 'LOCATION', 'NRP']","['LOCATION', 'LOCATION', 'NRP', 'LOCATION', 'LOCATION', 'LOCATION', 'LOCATION', 'LOCATION', 'NRP']","['LOCATION', 'LOCATION', 'NRP', 'LOCATION', 'LOCATION', 'LOCATION', 'LOCATION', 'LOCATION', 'NRP']",8,2,9,9,9,8,2,9,9,9
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['paul giga', 'dubai', 'rwanda']",[],"['paul kagame', 'dubai', 'rwanda']","['paul kagame', 'dubai']","['paul kagame', 'dubai']","['PERSON', 'LOCATION', 'LOCATION']",[],"['PERSON', 'LOCATION', 'LOCATION']","['PERSON', 'LOCATION']","['PERSON', 'LOCATION', 'LOCATION']",3,0,3,2,2,3,0,3,2,3
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['russia', 'africa']",[],"['russia', 'africa']",['africa'],['africa'],"['LOCATION', 'LOCATION']",[],"['LOCATION', 'LOCATION']",['LOCATION'],"['PERSON', 'LOCATION']",2,0,2,1,1,2,0,2,1,2
+"['kye sinon tian', 'indiana', 'pola williams']",['jicara general pomonas'],"['kylie', 'kenneth', 'tianna', 'chinese', 'durban', 'pamela williams']",[],[],"['PERSON', 'LOCATION', 'PERSON']",['PERSON'],"['PERSON', 'PERSON', 'PERSON', 'NRP', 'LOCATION', 'PERSON']",[],"['PERSON', 'LOCATION', 'PERSON', 'PERSON']",3,1,6,0,0,3,1,6,0,4
+"['japan', 'japanese']",['japanese'],"['japan', 'japanese']","['japan', 'japanese']","['japan', 'japanese']","['LOCATION', 'NRP']",['NRP'],"['LOCATION', 'NRP']","['LOCATION', 'NRP']","['LOCATION', 'NRP']",2,1,2,2,2,2,1,2,2,2
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['zala', 'zala', 'zea']",[],[],[],[],"['PERSON', 'LOCATION', 'PERSON']",[],[],[],"['PERSON', 'PERSON', 'PERSON']",3,0,0,0,0,3,0,0,0,3
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],['abbas'],[],[],[],[],['PERSON'],[],[],0,0,1,0,0,0,0,1,0,0
+"[""tom k's"", 'south africa', 'san sh naidu', 'li li']",['leetle'],['south africa'],"[""south africa's""]","[""south africa's""]","['PERSON', 'LOCATION', 'PERSON', 'PERSON']",['PERSON'],['LOCATION'],['LOCATION'],['LOCATION'],4,1,1,1,1,4,1,1,1,1
+[],"['hungary', 'budapest']",[],[],[],[],"['LOCATION', 'LOCATION']",[],[],[],0,2,0,0,0,0,2,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],['nora'],['nusrat hallelu'],[],[],[],['PERSON'],['PERSON'],[],[],0,1,1,0,0,0,1,1,0,0
+['netherlands'],"['dutch', 'netherlands']","['dutch', 'netherlands']",['netherlands'],['netherlands'],['LOCATION'],"['NRP', 'LOCATION']","['NRP', 'LOCATION']",['LOCATION'],"['NRP', 'LOCATION']",1,2,2,1,1,1,2,2,1,2
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['south africa', 'aster *Zenica']",['africa'],['south africa'],['south africa'],['south africa'],"['LOCATION', 'PERSON']",['LOCATION'],['LOCATION'],['LOCATION'],['LOCATION'],2,1,1,1,1,2,1,1,1,1
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],['burkina faso'],['burkina faso'],['burkina faso'],[],[],['LOCATION'],['LOCATION'],['LOCATION'],0,0,1,1,1,0,0,1,1,1
+[],['dale'],[],[],[],[],['PERSON'],[],[],[],0,1,0,0,0,0,1,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],['virginia'],[],[],[],[],['LOCATION'],[],[],[],0,1,0,0,0,0,1,0,0,0
+"['kenya', 'somalia']","['kieran', 'maria']","['kenya', 'somalia']","['the african union', 'kenya', 'somalia']","['the african union', 'kenya', 'somalia']","['LOCATION', 'LOCATION']","['PERSON', 'PERSON']","['LOCATION', 'LOCATION']","['LOCATION', 'LOCATION', 'LOCATION']","['LOCATION', 'LOCATION']",2,2,2,3,3,2,2,2,3,2
+"['bum zalm ko', 'buffalo city', 'zuk iso veronica', 'ter tina']","['anserina', 'buffalo city', 'kisoona', 'pete']",['buffalo city'],"['phumlani mkolo', 'buffalo city', 'zukiswa veronica']","['phumlani mkolo', 'buffalo city', 'zukiswa veronica']","['PERSON', 'LOCATION', 'PERSON', 'PERSON']","['PERSON', 'LOCATION', 'PERSON', 'PERSON']",['LOCATION'],"['PERSON', 'LOCATION', 'PERSON']",['LOCATION'],4,4,1,3,3,4,4,1,3,1
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['chad', 'jana', 'china']",['china'],['china'],"['chad', 'china']","['chad', 'china']","['LOCATION', 'PERSON', 'LOCATION']",['LOCATION'],['LOCATION'],"['LOCATION', 'LOCATION']","['LOCATION', 'LOCATION']",3,1,1,2,2,3,1,1,2,2
+['wang'],['russians'],[],[],[],['PERSON'],['NRP'],[],[],[],1,1,0,0,0,1,1,0,0,0
+"['east coast', 'danny', ""eas coco's""]","['danny', 'macdonald', 'danny', 'mac donald', 'tom']","['east coast', 'danny', 'east coast']",['east coast'],['east coast'],"['LOCATION', 'PERSON', 'PERSON']","['PERSON', 'PERSON', 'PERSON', 'PERSON', 'PERSON']","['LOCATION', 'PERSON', 'LOCATION']",['LOCATION'],"['LOCATION', 'PERSON', 'LOCATION']",3,5,3,1,1,3,5,3,1,3
+[],[],['164000'],[],[],[],[],['PHONE_NUMBER'],[],['PHONE_NUMBER'],0,0,1,0,0,0,0,1,0,1
+['chad'],[],['chad'],['chad'],['chad'],['PERSON'],[],['PERSON'],['PERSON'],['PERSON'],1,0,1,1,1,1,0,1,1,1
+[],[],['nigerian'],"['morgan', 'nigerian']","['morgan', 'nigerian']",[],[],['NRP'],"['PERSON', 'NRP']","['PERSON', 'NRP']",0,0,1,2,2,0,0,1,2,2
+['saba'],['africa'],['ceiba'],"['yagha province', 'cherif sy', 'tom']","['yagha province', 'cherif sy', 'tom']",['LOCATION'],['LOCATION'],['LOCATION'],"['LOCATION', 'PERSON', 'PERSON']","['LOCATION', 'PERSON']",1,1,1,3,3,1,1,1,3,2
+['ethiopians'],[],['europeans'],['ethiopians'],['ethiopians'],['NRP'],[],['NRP'],['NRP'],['NRP'],1,0,1,1,1,1,0,1,1,1
+['max'],['moroccans'],[],[],[],['PERSON'],['NRP'],[],[],[],1,1,0,0,0,1,1,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['rahim stelling', 'jude bellingham']",[],['jude bellingham'],[],[],"['PERSON', 'PERSON']",[],['PERSON'],[],['PERSON'],2,0,1,0,0,2,0,1,0,1
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+['russia'],['russia'],['russia'],[],[],['LOCATION'],['LOCATION'],['LOCATION'],[],[],1,1,1,0,0,1,1,1,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+['pakistan'],['evan'],"['landau', 'nuremberg', '0908 7812026', '0908781']","['0908 718 2026', '0908 718 2027']","['0908 718 2026', '0908 718 2027']",['LOCATION'],['PERSON'],"['PERSON', 'LOCATION', 'PHONE_NUMBER', 'PHONE_NUMBER']","['PHONE_NUMBER', 'PHONE_NUMBER']","['PHONE_NUMBER', 'PHONE_NUMBER']",1,1,4,2,2,1,1,4,2,2
+['africa'],['africa'],['africa'],['africa'],['africa'],['LOCATION'],['LOCATION'],['LOCATION'],['LOCATION'],['LOCATION'],1,1,1,1,1,1,1,1,1,1
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['rwanda', 'rwandan']",['randan'],"['rwandan', 'rwanda', 'rwandan']","['rwandan', 'rwanda', 'rwandan']","['rwandan', 'rwanda', 'rwandan']","['LOCATION', 'NRP']",['PERSON'],"['NRP', 'LOCATION', 'NRP']","['NRP', 'LOCATION', 'NRP']","['NRP', 'LOCATION']",2,1,3,3,3,2,1,3,3,2
+"['tanzania', 'john manga']","['antonona', 'john mentally']","['tanzania', 'john magufuli']","['tanzania', 'john magufuli']","['tanzania', 'john magufuli']","['LOCATION', 'PERSON']","['PERSON', 'PERSON']","['LOCATION', 'PERSON']","['LOCATION', 'PERSON']","['LOCATION', 'PERSON']",2,2,2,2,2,2,2,2,2,2
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['abuja', 'the nc dc']",['the north west'],"['abuja', 'lagos', 'cardona']","['nigerian', 'abuja', 'lagos', 'the north west']","['nigerian', 'abuja', 'lagos', 'the north west']","['LOCATION', 'LOCATION']",['LOCATION'],"['LOCATION', 'LOCATION', 'PERSON']","['NRP', 'LOCATION', 'LOCATION', 'LOCATION']","['NRP', 'LOCATION', 'LOCATION']",2,1,3,4,4,2,1,3,4,3
+"['jihadists', 'french']",['french'],"['jihadists', 'french']",['french'],['french'],"['NRP', 'NRP']",['NRP'],"['NRP', 'NRP']",['NRP'],"['NRP', 'NRP']",2,1,2,1,1,2,1,2,1,2
+['william keyes'],['genlis'],['william keys'],[],[],['PERSON'],['PERSON'],['PERSON'],[],[],1,1,1,0,0,1,1,1,0,0
+['md'],[],[],[],[],['LOCATION'],[],[],[],[],1,0,0,0,0,1,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+['kan reeves'],[],['keanu reeves'],['keanu reaves'],['keanu reaves'],['PERSON'],[],['PERSON'],['PERSON'],['PERSON'],1,0,1,1,1,1,0,1,1,1
+['rao'],[],[],[],[],['PERSON'],[],[],[],[],1,0,0,0,0,1,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+['pretoria'],[],"['malu cg gaba', 'norman goma', 'pretoria']","[""malusi gigaba's"", 'norman goma', 'pretoria']","[""malusi gigaba's"", 'norman goma', 'pretoria']",['LOCATION'],[],"['PERSON', 'PERSON', 'LOCATION']","['PERSON', 'PERSON', 'LOCATION']","['PERSON', 'PERSON', 'LOCATION']",1,0,3,3,3,1,0,3,3,3
+[],['dave'],[],['zikalala'],['zikalala'],[],['PERSON'],[],['PERSON'],[],0,1,0,1,1,0,1,0,1,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['nairobi', 'nigeria']",['nigeria'],"['nairobi', 'nigeria']","['nairobi', 'nigeria']","['nairobi', 'nigeria']","['LOCATION', 'LOCATION']",['LOCATION'],"['LOCATION', 'LOCATION']","['LOCATION', 'LOCATION']",['LOCATION'],2,1,2,2,2,2,1,2,2,1
+['kenyans'],[],['kenyans'],['kenyans'],['kenyans'],['NRP'],[],['NRP'],['NRP'],['NRP'],1,0,1,1,1,1,0,1,1,1
+['maliza'],[],['melissa corona'],[],[],['LOCATION'],[],['PERSON'],[],[],1,0,1,0,0,1,0,1,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],['mec'],['mec'],[],[],[],['PERSON'],[],0,0,0,1,1,0,0,0,1,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],['lewes'],[],[],[],[],['LOCATION'],[],[],[],0,1,0,0,0,0,1,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['musa fai', 'kenya']",[],"['moussa faki mohammed', 'kenya']",['kenya'],['kenya'],"['PERSON', 'LOCATION']",[],"['PERSON', 'LOCATION']",['LOCATION'],['LOCATION'],2,0,2,1,1,2,0,2,1,1
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+['kevin brunt'],[],"['kevin bryant', 'buffalo city', 'saipan guam']",['sipho ngwema'],['sipho ngwema'],['PERSON'],[],"['PERSON', 'LOCATION', 'LOCATION']",['PERSON'],"['PERSON', 'LOCATION']",1,0,3,1,1,1,0,3,1,2
+[],['chad'],['chad'],['chad'],['chad'],[],['LOCATION'],['LOCATION'],['LOCATION'],[],0,1,1,1,1,0,1,1,1,0
+"['islamic', 'sahara', 'the mali border', 'the bakin bay citizens']",['islamic'],"['jihadist', 'islamic', 'sahara', 'the mali border']","['muslim', 'islamic', 'burkina']","['muslim', 'islamic', 'burkina']","['NRP', 'LOCATION', 'LOCATION', 'LOCATION']",['NRP'],"['NRP', 'NRP', 'LOCATION', 'LOCATION']","['NRP', 'NRP', 'LOCATION']","['NRP', 'NRP', 'NRP', 'LOCATION', 'LOCATION']",4,1,4,3,3,4,1,4,3,5
+['olof'],['julius hollerin'],"['olaf', 'boston']",[],[],['PERSON'],['PERSON'],"['PERSON', 'LOCATION']",[],[],1,1,2,0,0,1,1,2,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],['toronto'],[],[],[],[],['LOCATION'],[],[],[],0,1,0,0,0,0,1,0,0,0
+"['namibia', 'namibia']",[],"['namibia', 'namibia']",[],[],"['LOCATION', 'LOCATION']",[],"['LOCATION', 'LOCATION']",[],['LOCATION'],2,0,2,0,0,2,0,2,0,1
+[],['mahala'],[],['magashule'],['magashule'],[],['LOCATION'],[],['PERSON'],['PERSON'],0,1,0,1,1,0,1,0,1,1
+[],['tito'],[],[],[],[],['PERSON'],[],[],[],0,1,0,0,0,0,1,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],['webster'],[],[],[],[],['PERSON'],[],[],[],0,1,0,0,0,0,1,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+['kpa county'],[],['oman'],['laikipia county'],['laikipia county'],['LOCATION'],[],['LOCATION'],['LOCATION'],['PERSON'],1,0,1,1,1,1,0,1,1,1
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+['muso'],"['mariano', 'elizabeth']","['mariam yusuf', 'elizabeth']",['amari youssef'],['amari youssef'],['PERSON'],"['PERSON', 'PERSON']","['PERSON', 'PERSON']",['PERSON'],['PERSON'],1,2,2,1,1,1,2,2,1,1
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],['bangalore'],['bangalore'],[],[],[],['LOCATION'],[],0,0,0,1,1,0,0,0,1,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['tanzania', 'jo pomp mag']",[],"['tanzanian', 'john magufuli']","['tanzanian', 'john magufuli']","['tanzanian', 'john magufuli']","['LOCATION', 'PERSON']",[],"['NRP', 'PERSON']","['NRP', 'PERSON']","['NRP', 'PERSON']",2,0,2,2,2,2,0,2,2,2
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+['nigerians'],"['lagos', 'pedro minister']","['hannity', 'lagos', 'nigerians']","['lagos', 'nigerians']","['lagos', 'nigerians']",['NRP'],"['LOCATION', 'PERSON']","['PERSON', 'LOCATION', 'NRP']","['LOCATION', 'NRP']","['LOCATION', 'NRP']",1,2,3,2,2,1,2,3,2,2
+['mofa'],['trenton'],['mustafa'],[],[],['PERSON'],['LOCATION'],['PERSON'],[],['PERSON'],1,1,1,0,0,1,1,1,0,1
+['norman goma'],['norman goma'],['norman goma'],['norma mngoma'],['norma mngoma'],['PERSON'],['PERSON'],['PERSON'],['PERSON'],['PERSON'],1,1,1,1,1,1,1,1,1,1
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['sora map', 'raymond sandoz']",[],['raymond sandoz'],['raymond zondo'],['raymond zondo'],"['PERSON', 'PERSON']",[],['PERSON'],['PERSON'],"['PERSON', 'PERSON']",2,0,1,1,1,2,0,1,1,2
+[],[],['w w w dot freedom synergy pro'],[],[],[],[],['PERSON'],[],[],0,0,1,0,0,0,0,1,0,0
+['india'],"['india', 'medina']",['india'],[],[],['LOCATION'],"['LOCATION', 'LOCATION']",['LOCATION'],[],[],1,2,1,0,0,1,2,1,0,0
+[],[],['the n d p'],[],[],[],[],['LOCATION'],[],[],0,0,1,0,0,0,0,1,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+"['marx', 'mckenna', 'nairobi']",[],"['max', 'mckenna', 'nairobi']",['nairobi'],['nairobi'],"['PERSON', 'PERSON', 'LOCATION']",[],"['PERSON', 'PERSON', 'LOCATION']",['LOCATION'],['LOCATION'],3,0,3,1,1,3,0,3,1,1
+[],[],['burkina faso'],['burkina'],['burkina'],[],[],['LOCATION'],['LOCATION'],['LOCATION'],0,0,1,1,1,0,0,1,1,1
+['samuel tino'],['genoa'],['sammy otieno'],[],[],['PERSON'],['LOCATION'],['PERSON'],[],['PERSON'],1,1,1,0,0,1,1,1,0,1
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
+[],[],[],[],[],[],[],[],[],[],0,0,0,0,0,0,0,0,0,0
